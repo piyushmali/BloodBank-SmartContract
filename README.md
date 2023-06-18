@@ -57,6 +57,3 @@ Contributions to the BloodBank smart contract are welcome! If you find any issue
 ## License
 
 The BloodBank smart contract is released under the [GNU General Public License v3.0](LICENSE).
-```
-
-Feel free to modify and enhance the README file according to your specific requirements and preferences.
