@@ -1,4 +1,3 @@
-```
 # BloodBank Smart Contract
 
 The BloodBank smart contract is a decentralized application (DApp) that manages blood transactions and patient records within a blood bank. The smart contract is implemented using Solidity and runs on the Ethereum blockchain.
